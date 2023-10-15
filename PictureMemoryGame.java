@@ -6,8 +6,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 
-
-
 public class PictureMemoryGame extends JFrame {
     private ArrayList<String> imagePaths;
     private ArrayList<String> cardImages;
@@ -168,7 +166,5 @@ public class PictureMemoryGame extends JFrame {
 
         });
     }
-
-
 
 }
